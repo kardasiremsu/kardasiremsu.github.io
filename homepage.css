@@ -1,0 +1,16 @@
+.all { width:1250px; height:600px; }
+
+img#me {height:500px; position: absolute; left:350px; top:50px;  border-radius:100px;}
+
+img#nature {
+width: auto;
+max-height:400px;
+position: absolute; right:60px; top:100px; 
+	background-attachment:fixed; border-radius:100px;}
+
+img#programmer {
+max-width:300px;
+height: auto;
+position: absolute; left:30px; top:200px; border-radius:100px;}
+
+p { font:bold italic 15px "Lucida Console", Monaco, monospace; position:absolute; left:50px; top:10px; color:rgba(100,50,250,0.6)}

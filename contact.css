@@ -1,0 +1,9 @@
+.all { font:italic 15px "Lucida Console", Monaco, monospace; color:white;  width:1250px; height:600px;  text-align:center;}
+.tablo { width:500px; height:200px; position:relative; left:350px;  }
+h1 {font: bold italic 40px "Lucida Console", Monaco, monospace; color:white;  }
+
+form { background:#FEC8D8; width:500px; position:absolute; left:350px; padding:25px 25px;border-radius:50px; }
+form, p {font: italic 15px "Lucida Console", Monaco, monospace; color:white;  }
+.tablo a {text-decoration:none; color:darblue; }
+.tablo a:hover {color:blue; }
+body { background-image:url(background3.jpg); background-repeat:no-repeat; background-size:cover; }

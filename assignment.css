@@ -1,0 +1,17 @@
+
+
+.hepsi { width:1250px; height:auto; }
+.ust { width:1250px; height:100px; background-image:url(background3.jpg); background-repeat:no-repeat;   background-size:cover; }
+.menu { width:1250px; height:40px; background-image:url(background4.jpg); background-repeat:no-repeat;   background-size:cover;}
+.alt { width:1250px; height:600px; background-image:url(background1.jpg); background-repeat:no-repeat;   background-size:cover;}
+
+.ust img#logo { max-height:90px;  width:auto; position:absolute; left:150px; top:20px; }
+.ust h1 { color:rgba(100,50,250,0.6);text-align:center;font-family: 'Roboto Mono', monospace; font-size:50px;  position:absolute; left:400px; top:5px;  }
+.menu ul li {text-align:center; float:left; display:block; padding:1px 10px; margin:5px 50px;  font-weight: bold;font-family: 'Open Sans', sans-serif; font-size:20px; }
+.menu ul li  a { text-decoration:none; color:white;}
+.menu ul li:hover {background:#FF99BC; ; }
+img.icon1 {height:60px; float:left; position:relative; left:900px; top:20px; }
+img.icon2 {height:50px; float:left; position:relative; left:900px; top:25px; }
+img.icon3 {height:40px; float:left; position:relative; left:910px; top:30px; }
+.hepsi ul {list-style:none; }
+

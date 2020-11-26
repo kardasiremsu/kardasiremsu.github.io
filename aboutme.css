@@ -1,0 +1,14 @@
+.all { width:1250px; height:1200px; background:black;}
+div.photo { width:200px; height:275px;  position:absolute; left:100px; top:10%; 	border-radius:1000px;}
+div.photo img {	height:70%; width:140%; padding:0 0; height:100%; border-radius:1000px;}
+
+div.text { max-width:700px; height:auto; border:4px solid pink; background:white; position:absolute; left:400px; top:300px;  }
+p {font: italic 20px "Lucida Console", Monaco, monospace; color:black; text-align:center;  } 
+
+h1 { color:white; font: bold 30px "Lucida Console", Monaco, monospace;position:absolute; left:450px; top:20%; }
+
+img#logo2 {  position:absolute; left:450px; top:650px; max-width:150px; }
+p#logo2 {position:absolute; left:400px; top:800px; max-width:250px;  color:white; font:italic 15px "Lucida Console", Monaco, monospace;}
+
+img#logo3 {  position:absolute; left:800px; top:650px; max-width:150px; }
+p#logo3 {position:absolute; left:750px; top:800px; max-width:250px;  color:white; font:italic 15px "Lucida Console", Monaco, monospace;}

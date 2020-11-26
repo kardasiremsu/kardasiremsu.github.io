@@ -1,0 +1,28 @@
+
+.all { width:1250px; height:auto; background-image: url(background2.jpg);
+	background-repeat: no-repeat;
+	background-position: center; 
+		background-size: cover;
+		background-attachment:fixed; }
+
+
+ 	h1 {
+ color:#F6FFFC; 
+ background-color:#90C6D9;
+ width:400px; text-align:center; padding:5px 5px; margin:70px 75px; 
+font: bold 25px "Lucida Console", Monaco, monospace; position:absolute; left:50px; top:20px;}
+ details summary h2 {font:bold 15px "Lucida Console", Monaco, monospace; text-align:center; padding:5px 5px; display:block; padding:9px; width:7cm;  color:#F6FFFC; background:#90C6D9; 
+ 
+  }
+  
+ details summary h2:hover  { background: #165166; color:#F6FFFC; }
+details ol li b a { text-decoration:none; color:#B18FD9; font:bold italic 15px "Lucida Console", Monaco, monospace; background:white; }
+details ol li b a:hover {text-decoration:underline; color:#835BB3; background:white; }
+img#education { position:absolute; left:50%; top:200px; width:40%; height:auto; }
+div#bolum { position:absolute; left:5%; width:40%; border-radius:100px; }
+
+.detay {  position:absolute; left:50px; top:200px;  width:500px;}
+details ol li#lise { list-style:none; }
+details ul li b a { text-decoration:none; color:#B18FD9; font:bold italic 15px "Lucida Console", Monaco, monospace; background:white;  }
+details ul li b a:hover {text-decoration:underline; color:#835BB3; background:white; }
+details ol li ul li { text-decoration:none; color:#B18FD9; font:bold italic 15px "Lucida Console", Monaco, monospace; background:white; margin:5px; }
